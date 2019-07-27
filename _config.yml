@@ -1,8 +1,4 @@
 theme: jekyll-theme-cayman
 title: Elflanded Development
 description: Elflanded Development
----
-layout: default
-title: Customization
-nav_order: 4
----
+
