@@ -13,12 +13,12 @@ You can install it by clicking here [link]( https://www.python.org/downloads)
 
 ## STEP 3: Update the values!
 Open the file and click on `.env.example` and open it with your favorite text editor and put your values!
-``TOKEN= your bot’s token.
-LOG_URL= the URL of your log viewer Heroku app (ie. https://yourlogviewerappname.herokuapp.com).
-GUILD_ID= the ID of the server your bot operates in.
-OWNERS= your user ID (ie. OWNERS=9821302031291298, or if multiple owners, OWNERS=9821302031291298,9781239213813229,924822913921391).
-MONGO_URI= your Mongo connection URI from the MongoDB setup.
-from https://taaku18.github.io/modmail/local-hosting/``` After you're done, make sure to save the file as `.env`!
+``TOKEN= your bot’s token.``
+``LOG_URL= the URL of your log viewer Heroku app (ie. https://yourlogviewerappname.herokuapp.com).``
+``GUILD_ID= the ID of the server your bot operates in.``
+``OWNERS= your user ID (ie. OWNERS=9821302031291298, or if multiple owners, OWNERS=9821302031291298,9781239213813229,924822913921391)``.
+``MONGO_URI= your Mongo connection URI from the MongoDB setup.``
+``from https://taaku18.github.io/modmail/local-hosting/`` After you're done, make sure to save the file as `.env`!
 
 ## STEP 4: Open your command prompt and relocate your file!
 You can this by going to your files and going to the modmail file, and pressing right click + shift at the same time, and clicking, 
