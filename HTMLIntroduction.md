@@ -8,7 +8,7 @@ Create a file and call it `index.html` this will recongize the file as HTML.
 Launch a text editor (visual studio code, notepad, etc) and insert this code!
 ## HTML
 
-```
+```markdown
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,4 +21,5 @@ Launch a text editor (visual studio code, notepad, etc) and insert this code!
 
 </body>
 </html>
+
 ```
