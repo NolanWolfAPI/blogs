@@ -45,7 +45,7 @@ Check and see if your bot is online!
 If you installed plugins, you need to download git and doing step 7 again!
 You have to use git to download plugins! You can download git by clicking [here!](https://git-scm.com/)
 
-``CREDITS```
+```CREDITS```
 Writer: Elflanded
 Original Post: https://taaku18.github.io/modmail/local-hosting/
 
