@@ -1,4 +1,6 @@
-## What is Modmail?
+## Self-Hosting ModMail
+
+## What is ModMail
 Modmail is an open source bot created by Kyb3r on github!
 Modmail is used for staff and users too communicate through a bot dm!
 
