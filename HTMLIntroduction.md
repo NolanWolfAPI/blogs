@@ -1,3 +1,5 @@
+Author: Elflanded
+Date: 7/27/19 12:33 AM
 ## What is HTML?
 HTML is a hypertext processer programming language, it is used to make websites!
 In this tutorial I'll teach you the basics of HTML!
@@ -23,3 +25,12 @@ Launch a text editor (visual studio code, notepad, etc) and insert this code!
 </html>
 
 ```
+## STEP 3: 
+After that save your file, and go to the file location you saved it, and you should see the icon of your browser,
+when you see it, click on it! You should see something like this..
+```markdown
+## Paragraph Heading.
+Paragraph```
+
+
+
