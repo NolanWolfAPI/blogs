@@ -9,7 +9,7 @@ Launch a text editor (visual studio code, notepad, etc) and insert this code!
 ## HTML
 
 
-```html
+``
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,4 +21,4 @@ Launch a text editor (visual studio code, notepad, etc) and insert this code!
 <p>Paragraph.</p>
 
 </body>
-</html>```
+</html>``
