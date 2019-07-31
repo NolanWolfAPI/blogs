@@ -14,7 +14,8 @@ Altertrail is currently hiring developers, executives, support and more! Please 
 5. Financial Officer. [0/1]
 6. Head of Support [0/2]
 7. Support Agents [0/8]
-<p1> Currently, that is all we are hiring. </p>
+
+## Currently, that is all we are hiring.
 
 ## Perks!
 You will get 5 percent off in any of our products!
