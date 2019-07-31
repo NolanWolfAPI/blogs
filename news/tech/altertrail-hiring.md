@@ -18,8 +18,11 @@ Altertrail is currently hiring developers, executives, support and more! Please 
 
 ## Perks!
 You will get 5 percent off in any of our products!
+
 You'll get games or projects or programs free!
+
 You'll get the support role!
+
 You'll get a custom yourname@altertrail.com email!
 
 ## Applications Process
@@ -27,28 +30,40 @@ You'll get a custom yourname@altertrail.com email!
 Requirements:
 
  -You are 14 or above.
+ 
  -You have a CV and a Resume.
+ 
  -You have at least ONE valid vouch.
+ 
  -You have a current/active email.
  
 Application Process - Game Developer:
 
 1. Send us your resume including the places you have developed for. (INCLUDE LINKS TO THOSE PLACES)
+
 2. Send us links and screenshots of your work.
+
 3. Wait for the CEO, CDO, or any other executive to reply. 
 
+
 NOTICE: This all must be sent with an email to jobs@altertrail.com
+
 
 Applications Procces - Executive (MO, SO, RO, and FO):
 
 1. Send us your CV (Cover Letter) and your resume. 
+
 2. Wait for the CEO, CDO, COO, or the OO to reply.
+
 3. Take the interview given by the CEO, CDO, COO, or the OO.
+
 
 NOTICE: This all must be sent with an email to jobs@altertrail.com
 
 
+
 For any issues email support@altertrail.com
+
 
 ©2019 Altertrail
 
